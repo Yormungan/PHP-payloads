@@ -1,6 +1,6 @@
 <?=readfile{""}?>
 
-
+grep -r "shell_exec("
 
 
 
